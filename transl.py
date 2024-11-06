@@ -53,4 +53,5 @@ keyboard_typing_word2 = korean_to_keyboard_typing(korean_word2)
 # Output the results
 print(f"{korean_word1}, {symbol}, {korean_word2}")
 print(f"Your Korean-to-English password is: {keyboard_typing_word1}{symbol}{keyboard_typing_word2}")
+input("Press Enter to close...")
 
